@@ -30,7 +30,7 @@ It’s designed for basketball fans who want the latest **stats, predictions, an
 ## 👨‍💻 Credits
 
 - **Machine Learning Model:** Amirhossein  
-- **Django Design & Web Development:** Arian
+- **Django Design & Web Development:** Arian (https://github.com/ArianGhaderi99)
 
 ## 📁 Repository
 
