@@ -22,10 +22,10 @@ It’s designed for basketball fans who want the latest **stats, predictions, an
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./home_nba.png)
+![Home Page](image/home_nba.png)
 
 ### 🔮 Prediction Page
-![Prediction Page](./predict_nba.png)
+![Prediction Page](image/predict_nba.png)
 
 ## 👨‍💻 Credits
 
