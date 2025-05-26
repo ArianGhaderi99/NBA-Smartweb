@@ -2,7 +2,7 @@
 
 
 
-![NBA Logo](https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg)
+![NBA Logo](https://cdn.1min30.com/wp-content/uploads/2018/03/Couleur-logo-NBA.jpg)
 
 ## 🏀 Overview
 
