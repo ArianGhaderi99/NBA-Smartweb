@@ -25,7 +25,7 @@ It’s designed for basketball fans who want the latest **stats, predictions, an
 ![Home Page](https://github.com/ArianGhaderi99/NBA-Smartweb/blob/main/Image/home_nba.png)
 
 ### 🔮 Prediction Page
-![Prediction Page]([image/predict_nba.png](https://github.com/ArianGhaderi99/NBA-Smartweb/blob/main/Image/predict_nba.png))
+![Prediction Page]([image/predict_nba.png](https://github.com/ArianGhaderi99/NBA-Smartweb/blob/main/Image/predict_nba.png)
 
 ## 👨‍💻 Credits
 
