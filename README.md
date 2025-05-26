@@ -36,7 +36,7 @@ It’s designed for basketball fans who want the latest **stats, predictions, an
 
 GitHub: [NBA SmartWeb](https://github.com/ArianGhaderi99/NBA-Smartweb)
 
-##⚙️ Technologies Used
+## ⚙️ Technologies Used
 Django
 
 HTML / CSS
