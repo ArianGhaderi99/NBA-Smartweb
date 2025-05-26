@@ -29,8 +29,8 @@ It’s designed for basketball fans who want the latest **stats, predictions, an
 
 ## 👨‍💻 Credits
 
-- **Machine Learning Model:** Amirhossein  (https://github.com/amirhosssein0)
-- **Django Design & Web Development:** Arian (https://github.com/ArianGhaderi99)
+- **Machine Learning Model:** [Amirhossein](https://github.com/amirhosssein0)
+- **Django Design & Web Development:** [Arian](https://github.com/ArianGhaderi99)
 
 ## 📁 Repository
 
