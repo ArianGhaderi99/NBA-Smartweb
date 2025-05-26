@@ -36,16 +36,15 @@ It’s designed for basketball fans who want the latest **stats, predictions, an
 
 GitHub: [NBA SmartWeb](https://github.com/ArianGhaderi99/NBA-Smartweb)
 
-⚙️ Technologies Used
-React.js
+##⚙️ Technologies Used
+Django
 
-Node.js / Express
+HTML / CSS
 
 Machine Learning (Python-based model)
 
 NBA API
 
-CSS / Tailwind
 
 Clone the repo:
 
