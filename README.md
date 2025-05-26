@@ -1,6 +1,6 @@
 # NBA-Smartweb
 
-# [INSERT PROJECT NAME HERE]
+
 
 ![NBA Logo](https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg)
 
