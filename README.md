@@ -41,7 +41,7 @@ Django
 
 HTML / CSS
 
-Machine Learning (Python-based model)
+Machine Learning (XGBoost Model)
 
 NBA API
 
